@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Printing</string>
+    <string name="print_merchantname">marchent</string>
+    <string name="print_merchantno">marchent</string>
+    <string name="print_terminalno">terminal</string>
+    <string name="print_issurebank">is your bank</string>
+    <string name="print_operator">operator</string>
+    <string name="print_shoudan">shoudan</string>
+    <string name="print_expiredate">Expiredate</string>
+    <string name="cardnum">741852963</string>
+    <string name="print_cardinfo">VISA</string>
+    <string name="print_tradetype">trade</string>
+    <string name="print_batchno">batch</string>
+    <string name="print_voucher">voucher</string>
+    <string name="print_authorcode">auth</string>
+    <string name="print_refrenceno">referance</string>
+    <string name="print_tradedate">25/5/2021</string>
+    <string name="print_amount">12.25 USD</string>
+    <string name="money">50.0USD</string>
+    <string name="print_beizhu">beizu</string>
+    <string name="print_originalvoucher">"original voucher "</string>
+    <string name="print_addinfo">Add info</string>
+    <string name="print_barcode">barcode</string>
+    <string name="print_qrcode">print QR code</string>
+    <string name="print_cardhold">Maher Test Card</string>
+    <string name="print_cardhold_ensure">ensure</string>
+    <string name="print_merchant_dan">marchent dan</string>
+</resources>
